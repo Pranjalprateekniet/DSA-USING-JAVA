@@ -22,20 +22,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0001-two-sum) |
+| [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0994-rotting-oranges) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0022-generate-parentheses) |
+| [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
 ## Stack
 |  |
 | ------- |
