@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 <!---LeetCode Topics End-->
