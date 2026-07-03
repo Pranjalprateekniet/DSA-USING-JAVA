@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0090-subsets-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0090-subsets-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
 | [0496-next-greater-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
@@ -147,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
