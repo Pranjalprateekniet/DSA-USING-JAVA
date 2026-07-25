@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0049-group-anagrams/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0090-subsets-ii/) | Medium |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0036-valid-sudoku/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0131-palindrome-partitioning/) | Medium |
