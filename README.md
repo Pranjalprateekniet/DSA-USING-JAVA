@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0292-nim-game/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
