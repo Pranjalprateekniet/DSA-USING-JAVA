@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
