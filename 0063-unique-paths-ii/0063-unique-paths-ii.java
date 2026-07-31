@@ -3,12 +3,6 @@ class Solution {
         int m=grid.length;
         int n=grid[0].length;
         int [][] dp=new int[m][n];
-        int dup[][]=new int[m][n];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                dup[i][j]=grid[i][j];
-            }
-        }
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[0][0]==1)
@@ -20,10 +14,10 @@ class Solution {
                 }
                 int up=0;
                 int left=0;
-                if(i>0 && dup[i][j]!=1){
+                if(i>0 && grid[i][j]!=1){
                     up=dp[i-1][j];
                 }
-                if(j>0 && dup[i][j]!=1)
+                if(j>0 && grid[i][j]!=1)
                     left=dp[i][j-1];
                 dp[i][j]=up+left;
             }
