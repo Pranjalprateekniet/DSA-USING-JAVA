@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0213-house-robber-ii/) | Medium |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0213-house-robber-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0486-predict-the-winner/) | Medium |
