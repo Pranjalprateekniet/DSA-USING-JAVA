@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0216-combination-sum-iii/) | Medium |
+| [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0494-target-sum/) | Medium |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
+| [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0494-target-sum/) | Medium |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0877-stone-game/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
