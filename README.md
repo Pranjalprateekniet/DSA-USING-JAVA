@@ -331,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0494-target-sum/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
