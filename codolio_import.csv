@@ -1,0 +1,419 @@
+problemUrl,topic,subTopic
+https://www.geeksforgeeks.org/program-count-digits-integer-3/,Step 1: Learn the Basics,1.3 Math Problems
+https://leetcode.com/problems/reverse-integer/,Step 1: Learn the Basics,1.3 Math Problems
+https://leetcode.com/problems/palindrome-number/,Step 1: Learn the Basics,1.3 Math Problems
+https://www.geeksforgeeks.org/gcd-two-array-numbers/,Step 1: Learn the Basics,1.3 Math Problems
+https://www.geeksforgeeks.org/program-for-armstrong-numbers/,Step 1: Learn the Basics,1.3 Math Problems
+https://www.geeksforgeeks.org/find-all-divisors-of-a-natural-number-set-2/,Step 1: Learn the Basics,1.3 Math Problems
+https://www.geeksforgeeks.org/prime-numbers/,Step 1: Learn the Basics,1.3 Math Problems
+https://www.geeksforgeeks.org/selection-sort/,Step 2: Sorting Techniques,2.1 Sorting-I
+https://www.geeksforgeeks.org/bubble-sort/,Step 2: Sorting Techniques,2.1 Sorting-I
+https://www.geeksforgeeks.org/insertion-sort/,Step 2: Sorting Techniques,2.1 Sorting-I
+https://leetcode.com/problems/sort-an-array/,Step 2: Sorting Techniques,2.2 Sorting-II
+https://www.geeksforgeeks.org/quick-sort/,Step 2: Sorting Techniques,2.2 Sorting-II
+https://www.geeksforgeeks.org/recursive-bubble-sort/,Step 2: Sorting Techniques,2.2 Sorting-II
+https://www.geeksforgeeks.org/recursive-insertion-sort/,Step 2: Sorting Techniques,2.2 Sorting-II
+https://www.geeksforgeeks.org/c-program-find-largest-element-array/,Step 3: Arrays,3.1 Easy
+https://www.geeksforgeeks.org/find-second-largest-element-array/,Step 3: Arrays,3.1 Easy
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,Step 3: Arrays,3.1 Easy
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Step 3: Arrays,3.1 Easy
+https://www.geeksforgeeks.org/array-rotation/,Step 3: Arrays,3.1 Easy
+https://leetcode.com/problems/rotate-array/,Step 3: Arrays,3.1 Easy
+https://leetcode.com/problems/move-zeroes/,Step 3: Arrays,3.1 Easy
+https://www.geeksforgeeks.org/linear-search/,Step 3: Arrays,3.1 Easy
+https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/,Step 3: Arrays,3.1 Easy
+https://leetcode.com/problems/intersection-of-two-arrays/,Step 3: Arrays,3.1 Easy
+https://leetcode.com/problems/missing-number/,Step 3: Arrays,3.1 Easy
+https://leetcode.com/problems/max-consecutive-ones/,Step 3: Arrays,3.1 Easy
+https://leetcode.com/problems/single-number/,Step 3: Arrays,3.1 Easy
+https://www.geeksforgeeks.org/longest-sub-array-sum-k/,Step 3: Arrays,3.1 Easy
+https://leetcode.com/problems/two-sum/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/sort-colors/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/majority-element/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/maximum-subarray/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/rearrange-array-elements-by-sign/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/next-permutation/,Step 3: Arrays,3.2 Medium
+https://www.geeksforgeeks.org/leaders-in-an-array/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/longest-consecutive-sequence/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/set-matrix-zeroes/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/rotate-image/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/spiral-matrix/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/subarray-sum-equals-k/,Step 3: Arrays,3.2 Medium
+https://leetcode.com/problems/pascals-triangle/,Step 3: Arrays,3.3 Hard
+https://leetcode.com/problems/majority-element-ii/,Step 3: Arrays,3.3 Hard
+https://leetcode.com/problems/3sum/,Step 3: Arrays,3.3 Hard
+https://leetcode.com/problems/4sum/,Step 3: Arrays,3.3 Hard
+https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/,Step 3: Arrays,3.3 Hard
+https://www.interviewbit.com/problems/subarray-with-given-xor/,Step 3: Arrays,3.3 Hard
+https://leetcode.com/problems/merge-intervals/,Step 3: Arrays,3.3 Hard
+https://leetcode.com/problems/merge-sorted-array/,Step 3: Arrays,3.3 Hard
+https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/,Step 3: Arrays,3.3 Hard
+https://www.geeksforgeeks.org/counting-inversions/,Step 3: Arrays,3.3 Hard
+https://leetcode.com/problems/reverse-pairs/,Step 3: Arrays,3.3 Hard
+https://leetcode.com/problems/maximum-product-subarray/,Step 3: Arrays,3.3 Hard
+https://leetcode.com/problems/binary-search/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://www.geeksforgeeks.org/lower_bound-in-cpp/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://www.geeksforgeeks.org/upper_bound-in-cpp/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://leetcode.com/problems/search-insert-position/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://www.geeksforgeeks.org/floor-in-a-sorted-array/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://leetcode.com/problems/search-in-rotated-sorted-array/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://leetcode.com/problems/single-element-in-a-sorted-array/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://leetcode.com/problems/find-peak-element/,Step 4: Binary Search,4.1 BS on 1D Arrays
+https://leetcode.com/problems/sqrtx/,Step 4: Binary Search,4.2 BS on Answers
+https://www.geeksforgeeks.org/n-th-root-of-a-number/,Step 4: Binary Search,4.2 BS on Answers
+https://leetcode.com/problems/koko-eating-bananas/,Step 4: Binary Search,4.2 BS on Answers
+https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/,Step 4: Binary Search,4.2 BS on Answers
+https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/,Step 4: Binary Search,4.2 BS on Answers
+https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Step 4: Binary Search,4.2 BS on Answers
+https://leetcode.com/problems/kth-missing-positive-number/,Step 4: Binary Search,4.2 BS on Answers
+https://www.geeksforgeeks.org/aggressive-cows/,Step 4: Binary Search,4.2 BS on Answers
+https://www.geeksforgeeks.org/allocate-minimum-number-pages/,Step 4: Binary Search,4.2 BS on Answers
+https://leetcode.com/problems/split-array-largest-sum/,Step 4: Binary Search,4.2 BS on Answers
+https://www.geeksforgeeks.org/painters-partition-problem/,Step 4: Binary Search,4.2 BS on Answers
+https://leetcode.com/problems/minimize-max-distance-to-gas-station/,Step 4: Binary Search,4.2 BS on Answers
+https://leetcode.com/problems/median-of-two-sorted-arrays/,Step 4: Binary Search,4.2 BS on Answers
+https://www.geeksforgeeks.org/k-th-element-two-sorted-arrays/,Step 4: Binary Search,4.2 BS on Answers
+https://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/,Step 4: Binary Search,4.3 BS on 2D Arrays
+https://leetcode.com/problems/search-a-2d-matrix/,Step 4: Binary Search,4.3 BS on 2D Arrays
+https://leetcode.com/problems/search-a-2d-matrix-ii/,Step 4: Binary Search,4.3 BS on 2D Arrays
+https://leetcode.com/problems/find-a-peak-element-ii/,Step 4: Binary Search,4.3 BS on 2D Arrays
+https://www.interviewbit.com/problems/matrix-median/,Step 4: Binary Search,4.3 BS on 2D Arrays
+https://leetcode.com/problems/remove-outermost-parentheses/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/reverse-words-in-a-string/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/largest-odd-number-in-string/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/longest-common-prefix/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/isomorphic-strings/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/rotate-string/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/valid-anagram/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/sort-characters-by-frequency/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/roman-to-integer/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/integer-to-roman/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/string-to-integer-atoi/,Step 5: Strings,5.1 Basic and Medium
+https://www.geeksforgeeks.org/count-number-of-substrings/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/longest-palindromic-substring/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/sum-of-beauty-of-all-substrings/,Step 5: Strings,5.1 Basic and Medium
+https://leetcode.com/problems/design-linked-list/,Step 6: Linked List,6.1 Learn LL
+https://leetcode.com/problems/design-linked-list/,Step 6: Linked List,6.1 Learn LL
+https://leetcode.com/problems/delete-node-in-a-linked-list/,Step 6: Linked List,6.1 Learn LL
+https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/,Step 6: Linked List,6.1 Learn LL
+https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/,Step 6: Linked List,6.1 Learn LL
+https://www.geeksforgeeks.org/create-a-linked-list-from-a-given-array/,Step 6: Linked List,6.1 Learn LL
+https://leetcode.com/problems/middle-of-the-linked-list/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/reverse-linked-list/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/linked-list-cycle/,Step 6: Linked List,6.2 Medium
+https://www.geeksforgeeks.org/find-length-of-loop-in-linked-list/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/palindrome-linked-list/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/odd-even-linked-list/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/sort-list/,Step 6: Linked List,6.2 Medium
+https://www.geeksforgeeks.org/sort-linked-list-0s-1s-2s/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/intersection-of-two-linked-lists/,Step 6: Linked List,6.2 Medium
+https://www.geeksforgeeks.org/add-1-number-represented-linked-list/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/add-two-numbers/,Step 6: Linked List,6.2 Medium
+https://www.geeksforgeeks.org/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/,Step 6: Linked List,6.2 Medium
+https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/,Step 6: Linked List,6.2 Medium
+https://www.geeksforgeeks.org/remove-duplicates-sorted-doubly-linked-list/,Step 6: Linked List,6.2 Medium
+https://leetcode.com/problems/reverse-nodes-in-k-group/,Step 6: Linked List,6.3 Hard
+https://leetcode.com/problems/rotate-list/,Step 6: Linked List,6.3 Hard
+https://www.geeksforgeeks.org/flattening-a-linked-list/,Step 6: Linked List,6.3 Hard
+https://leetcode.com/problems/copy-list-with-random-pointer/,Step 6: Linked List,6.3 Hard
+https://leetcode.com/problems/linked-list-cycle-ii/,Step 6: Linked List,6.3 Hard
+https://leetcode.com/problems/lru-cache/,Step 6: Linked List,6.3 Hard
+https://leetcode.com/problems/lfu-cache/,Step 6: Linked List,6.3 Hard
+https://leetcode.com/problems/merge-k-sorted-lists/,Step 6: Linked List,6.3 Hard
+https://leetcode.com/problems/reverse-nodes-in-even-length-groups/,Step 6: Linked List,6.3 Hard
+https://leetcode.com/problems/powx-n/,Step 7: Recursion,7.1 Get a Strong Hold
+https://leetcode.com/problems/count-good-numbers/,Step 7: Recursion,7.1 Get a Strong Hold
+https://www.geeksforgeeks.org/sort-a-stack-using-recursion/,Step 7: Recursion,7.1 Get a Strong Hold
+https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/,Step 7: Recursion,7.1 Get a Strong Hold
+https://www.geeksforgeeks.org/print-1-to-n-without-using-loops-3/,Step 7: Recursion,7.1 Get a Strong Hold
+https://www.geeksforgeeks.org/print-n-to-1-without-loop/,Step 7: Recursion,7.1 Get a Strong Hold
+https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/,Step 7: Recursion,7.1 Get a Strong Hold
+https://www.geeksforgeeks.org/factorial-of-a-number-using-recursion/,Step 7: Recursion,7.1 Get a Strong Hold
+https://www.geeksforgeeks.org/write-a-program-to-reverse-array-or-string/,Step 7: Recursion,7.1 Get a Strong Hold
+https://leetcode.com/problems/valid-palindrome/,Step 7: Recursion,7.1 Get a Strong Hold
+https://www.geeksforgeeks.org/generate-all-binary-strings-without-consecutive-1s/,Step 7: Recursion,7.2 Subsequences Pattern
+https://leetcode.com/problems/generate-parentheses/,Step 7: Recursion,7.2 Subsequences Pattern
+https://leetcode.com/problems/subsets/,Step 7: Recursion,7.2 Subsequences Pattern
+https://www.geeksforgeeks.org/number-subsequences-string/,Step 7: Recursion,7.2 Subsequences Pattern
+https://leetcode.com/problems/combination-sum/,Step 7: Recursion,7.3 Trying out all Combos
+https://leetcode.com/problems/combination-sum-ii/,Step 7: Recursion,7.3 Trying out all Combos
+https://www.geeksforgeeks.org/subset-sum-problem/,Step 7: Recursion,7.3 Trying out all Combos
+https://leetcode.com/problems/subsets-ii/,Step 7: Recursion,7.3 Trying out all Combos
+https://leetcode.com/problems/combination-sum-iii/,Step 7: Recursion,7.3 Trying out all Combos
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Step 7: Recursion,7.3 Trying out all Combos
+https://leetcode.com/problems/palindrome-partitioning/,Step 7: Recursion,7.3 Trying out all Combos
+https://leetcode.com/problems/word-search/,Step 7: Recursion,7.3 Trying out all Combos
+https://leetcode.com/problems/n-queens/,Step 7: Recursion,7.4 Hard
+https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/,Step 7: Recursion,7.4 Hard
+https://leetcode.com/problems/sudoku-solver/,Step 7: Recursion,7.4 Hard
+https://www.geeksforgeeks.org/bits-manipulation-important-tactics/,Step 8: Bit Manipulation,8.1 Concepts
+https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/,Step 8: Bit Manipulation,8.1 Concepts
+https://www.geeksforgeeks.org/check-if-a-number-is-odd-or-even-using-bitwise-operators/,Step 8: Bit Manipulation,8.1 Concepts
+https://leetcode.com/problems/power-of-two/,Step 8: Bit Manipulation,8.1 Concepts
+https://leetcode.com/problems/number-of-1-bits/,Step 8: Bit Manipulation,8.1 Concepts
+https://www.geeksforgeeks.org/set-rightmost-unset-bit/,Step 8: Bit Manipulation,8.1 Concepts
+https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/,Step 8: Bit Manipulation,8.1 Concepts
+https://leetcode.com/problems/divide-two-integers/,Step 8: Bit Manipulation,8.1 Concepts
+https://leetcode.com/problems/single-number/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://leetcode.com/problems/single-number-ii/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://leetcode.com/problems/single-number-iii/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://leetcode.com/problems/xor-queries-of-a-subarray/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://www.geeksforgeeks.org/find-the-two-numbers-with-odd-occurences-in-an-unsorted-array/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://leetcode.com/problems/subsets/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://www.geeksforgeeks.org/position-of-rightmost-set-bit/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://www.geeksforgeeks.org/minimum-xor-value-pair/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://www.geeksforgeeks.org/count-pairs-with-given-xor/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://www.interviewbit.com/problems/subarray-with-given-xor/,Step 8: Bit Manipulation,8.2 Interview Problems
+https://www.geeksforgeeks.org/stack-data-structure-introduction-program/,Step 9: Stack & Queues,9.1 Learning
+https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/,Step 9: Stack & Queues,9.1 Learning
+https://leetcode.com/problems/implement-stack-using-queues/,Step 9: Stack & Queues,9.1 Learning
+https://leetcode.com/problems/implement-queue-using-stacks/,Step 9: Stack & Queues,9.1 Learning
+https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/,Step 9: Stack & Queues,9.1 Learning
+https://www.geeksforgeeks.org/queue-linked-list-implementation/,Step 9: Stack & Queues,9.1 Learning
+https://leetcode.com/problems/valid-parentheses/,Step 9: Stack & Queues,9.1 Learning
+https://leetcode.com/problems/min-stack/,Step 9: Stack & Queues,9.1 Learning
+https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/,Step 9: Stack & Queues,9.2 Prefix Infix Postfix
+https://www.geeksforgeeks.org/prefix-infix-conversion/,Step 9: Stack & Queues,9.2 Prefix Infix Postfix
+https://www.geeksforgeeks.org/prefix-postfix-conversion/,Step 9: Stack & Queues,9.2 Prefix Infix Postfix
+https://www.geeksforgeeks.org/postfix-prefix-conversion/,Step 9: Stack & Queues,9.2 Prefix Infix Postfix
+https://www.geeksforgeeks.org/postfix-to-infix/,Step 9: Stack & Queues,9.2 Prefix Infix Postfix
+https://leetcode.com/problems/evaluate-reverse-polish-notation/,Step 9: Stack & Queues,9.2 Prefix Infix Postfix
+https://leetcode.com/problems/next-greater-element-i/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://leetcode.com/problems/next-greater-element-ii/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://www.interviewbit.com/problems/nearest-smaller-element/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://www.geeksforgeeks.org/number-nges-right/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://leetcode.com/problems/trapping-rain-water/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://leetcode.com/problems/sum-of-subarray-minimums/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://leetcode.com/problems/asteroid-collision/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://leetcode.com/problems/sum-of-subarray-ranges/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://leetcode.com/problems/remove-k-digits/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://leetcode.com/problems/largest-rectangle-in-histogram/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://leetcode.com/problems/maximal-rectangle/,Step 9: Stack & Queues,9.3 Monotonic Stack/Queue
+https://leetcode.com/problems/online-stock-span/,Step 9: Stack & Queues,9.4 Implementation
+https://leetcode.com/problems/daily-temperatures/,Step 9: Stack & Queues,9.4 Implementation
+https://leetcode.com/problems/sliding-window-maximum/,Step 9: Stack & Queues,9.4 Implementation
+https://www.geeksforgeeks.org/the-celebrity-problem/,Step 9: Stack & Queues,9.4 Implementation
+https://leetcode.com/problems/lru-cache/,Step 9: Stack & Queues,9.4 Implementation
+https://www.geeksforgeeks.org/longest-sub-array-sum-k/,Step 10: Sliding Window & Two Pointer,10.1 Medium Problems
+https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/,Step 10: Sliding Window & Two Pointer,10.1 Medium Problems
+https://leetcode.com/problems/fruit-into-baskets/,Step 10: Sliding Window & Two Pointer,10.1 Medium Problems
+https://leetcode.com/problems/longest-substring-without-repeating-characters/,Step 10: Sliding Window & Two Pointer,10.1 Medium Problems
+https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/,Step 10: Sliding Window & Two Pointer,10.1 Medium Problems
+https://leetcode.com/problems/longest-repeating-character-replacement/,Step 10: Sliding Window & Two Pointer,10.1 Medium Problems
+https://leetcode.com/problems/binary-subarrays-with-sum/,Step 10: Sliding Window & Two Pointer,10.1 Medium Problems
+https://leetcode.com/problems/subarrays-with-k-different-integers/,Step 10: Sliding Window & Two Pointer,10.2 Hard Problems
+https://leetcode.com/problems/minimum-window-substring/,Step 10: Sliding Window & Two Pointer,10.2 Hard Problems
+https://leetcode.com/problems/minimum-window-subsequence/,Step 10: Sliding Window & Two Pointer,10.2 Hard Problems
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/,Step 10: Sliding Window & Two Pointer,10.2 Hard Problems
+https://leetcode.com/problems/count-number-of-nice-subarrays/,Step 10: Sliding Window & Two Pointer,10.2 Hard Problems
+https://www.geeksforgeeks.org/heap-data-structure/,Step 11: Heaps,11.1 Learning
+https://www.geeksforgeeks.org/binary-heap/,Step 11: Heaps,11.1 Learning
+https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/,Step 11: Heaps,11.1 Learning
+https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/,Step 11: Heaps,11.1 Learning
+https://leetcode.com/problems/kth-largest-element-in-an-array/,Step 11: Heaps,11.2 Medium Problems
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,Step 11: Heaps,11.2 Medium Problems
+https://www.geeksforgeeks.org/nearly-sorted-algorithm/,Step 11: Heaps,11.2 Medium Problems
+https://www.geeksforgeeks.org/merge-k-sorted-arrays/,Step 11: Heaps,11.2 Medium Problems
+https://www.geeksforgeeks.org/replace-each-element-of-array-with-its-corresponding-rank/,Step 11: Heaps,11.2 Medium Problems
+https://leetcode.com/problems/task-scheduler/,Step 11: Heaps,11.2 Medium Problems
+https://leetcode.com/problems/hand-of-straights/,Step 11: Heaps,11.2 Medium Problems
+https://leetcode.com/problems/design-twitter/,Step 11: Heaps,11.3 Hard Problems
+https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/,Step 11: Heaps,11.3 Hard Problems
+https://leetcode.com/problems/kth-largest-element-in-a-stream/,Step 11: Heaps,11.3 Hard Problems
+https://www.interviewbit.com/problems/maximum-sum-combinations/,Step 11: Heaps,11.3 Hard Problems
+https://leetcode.com/problems/find-median-from-data-stream/,Step 11: Heaps,11.3 Hard Problems
+https://leetcode.com/problems/top-k-frequent-elements/,Step 11: Heaps,11.3 Hard Problems
+https://leetcode.com/problems/assign-cookies/,Step 12: Greedy,12.1 Easy Problems
+https://www.geeksforgeeks.org/fractional-knapsack-problem/,Step 12: Greedy,12.1 Easy Problems
+https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/,Step 12: Greedy,12.1 Easy Problems
+https://leetcode.com/problems/lemonade-change/,Step 12: Greedy,12.1 Easy Problems
+https://leetcode.com/problems/valid-parenthesis-string/,Step 12: Greedy,12.1 Easy Problems
+https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/,Step 12: Greedy,12.2 Medium/Hard
+https://leetcode.com/problems/jump-game/,Step 12: Greedy,12.2 Medium/Hard
+https://leetcode.com/problems/jump-game-ii/,Step 12: Greedy,12.2 Medium/Hard
+https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/,Step 12: Greedy,12.2 Medium/Hard
+https://www.geeksforgeeks.org/job-sequencing-problem/,Step 12: Greedy,12.2 Medium/Hard
+https://leetcode.com/problems/candy/,Step 12: Greedy,12.2 Medium/Hard
+https://leetcode.com/problems/insert-interval/,Step 12: Greedy,12.2 Medium/Hard
+https://leetcode.com/problems/non-overlapping-intervals/,Step 12: Greedy,12.2 Medium/Hard
+https://www.geeksforgeeks.org/shortest-job-first-or-sjf-cpu-scheduling/,Step 12: Greedy,12.2 Medium/Hard
+https://www.geeksforgeeks.org/program-page-replacement-algorithms-set-2-fifo/,Step 12: Greedy,12.2 Medium/Hard
+https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Step 12: Greedy,12.2 Medium/Hard
+https://www.geeksforgeeks.org/binary-tree-set-1-introduction/,Step 13: Binary Trees,13.1 Traversals
+https://leetcode.com/problems/binary-tree-inorder-traversal/,Step 13: Binary Trees,13.1 Traversals
+https://leetcode.com/problems/binary-tree-preorder-traversal/,Step 13: Binary Trees,13.1 Traversals
+https://leetcode.com/problems/binary-tree-postorder-traversal/,Step 13: Binary Trees,13.1 Traversals
+https://leetcode.com/problems/binary-tree-level-order-traversal/,Step 13: Binary Trees,13.1 Traversals
+https://leetcode.com/problems/binary-tree-inorder-traversal/,Step 13: Binary Trees,13.1 Traversals
+https://leetcode.com/problems/binary-tree-preorder-traversal/,Step 13: Binary Trees,13.1 Traversals
+https://www.geeksforgeeks.org/iterative-postorder-traversal/,Step 13: Binary Trees,13.1 Traversals
+https://www.geeksforgeeks.org/iterative-postorder-traversal-using-stack/,Step 13: Binary Trees,13.1 Traversals
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/,Step 13: Binary Trees,13.1 Traversals
+https://leetcode.com/problems/maximum-depth-of-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/balanced-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/diameter-of-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/binary-tree-maximum-path-sum/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/same-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Step 13: Binary Trees,13.2 Medium Problems
+https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://www.geeksforgeeks.org/bottom-view-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/binary-tree-right-side-view/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/symmetric-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://www.geeksforgeeks.org/print-path-root-given-node-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://leetcode.com/problems/maximum-width-of-binary-tree/,Step 13: Binary Trees,13.2 Medium Problems
+https://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,Step 13: Binary Trees,13.3 Hard Problems
+https://www.geeksforgeeks.org/time-to-burn-a-tree-starting-from-a-leaf-node/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/count-complete-tree-nodes/,Step 13: Binary Trees,13.3 Hard Problems
+https://www.geeksforgeeks.org/if-you-are-given-two-traversal-sequences-can-you-construct-the-binary-tree/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/binary-tree-inorder-traversal/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/binary-tree-preorder-traversal/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/invert-binary-tree/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/balanced-binary-tree/,Step 13: Binary Trees,13.3 Hard Problems
+https://leetcode.com/problems/search-in-a-binary-search-tree/,Step 14: Binary Search Trees,14.1 Concepts
+https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/,Step 14: Binary Search Trees,14.1 Concepts
+https://www.geeksforgeeks.org/ceil-in-binary-search-tree-bst/,Step 14: Binary Search Trees,14.1 Concepts
+https://leetcode.com/problems/insert-into-a-binary-search-tree/,Step 14: Binary Search Trees,14.1 Concepts
+https://leetcode.com/problems/delete-node-in-a-bst/,Step 14: Binary Search Trees,14.1 Concepts
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Step 14: Binary Search Trees,14.1 Concepts
+https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/,Step 14: Binary Search Trees,14.1 Concepts
+https://leetcode.com/problems/validate-binary-search-tree/,Step 14: Binary Search Trees,14.1 Concepts
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Step 14: Binary Search Trees,14.2 Problems
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/,Step 14: Binary Search Trees,14.2 Problems
+https://leetcode.com/problems/inorder-successor-in-bst/,Step 14: Binary Search Trees,14.2 Problems
+https://leetcode.com/problems/binary-search-tree-iterator/,Step 14: Binary Search Trees,14.2 Problems
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/,Step 14: Binary Search Trees,14.2 Problems
+https://leetcode.com/problems/recover-binary-search-tree/,Step 14: Binary Search Trees,14.2 Problems
+https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/,Step 14: Binary Search Trees,14.2 Problems
+https://leetcode.com/problems/unique-binary-search-trees/,Step 14: Binary Search Trees,14.2 Problems
+https://www.geeksforgeeks.org/graph-and-its-representations/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/breadth-first-search/,Step 15: Graphs,15.1 Learning
+https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/number-of-provinces/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/number-of-islands/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/rotting-oranges/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/flood-fill/,Step 15: Graphs,15.1 Learning
+https://www.geeksforgeeks.org/detect-cycle-undirected-graph/,Step 15: Graphs,15.1 Learning
+https://www.geeksforgeeks.org/detect-cycle-in-a-graph/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/01-matrix/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/surrounded-regions/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/number-of-enclaves/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/word-ladder/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/word-ladder-ii/,Step 15: Graphs,15.1 Learning
+https://www.geeksforgeeks.org/find-number-of-closed-islands-in-given-matrix/,Step 15: Graphs,15.1 Learning
+https://leetcode.com/problems/is-graph-bipartite/,Step 15: Graphs,15.1 Learning
+https://www.geeksforgeeks.org/topological-sorting/,Step 15: Graphs,15.2 Topo Sort
+https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/,Step 15: Graphs,15.2 Topo Sort
+https://www.geeksforgeeks.org/detect-cycle-in-a-graph/,Step 15: Graphs,15.2 Topo Sort
+https://www.geeksforgeeks.org/detect-cycle-in-a-graph/,Step 15: Graphs,15.2 Topo Sort
+https://leetcode.com/problems/course-schedule/,Step 15: Graphs,15.2 Topo Sort
+https://leetcode.com/problems/course-schedule-ii/,Step 15: Graphs,15.2 Topo Sort
+https://leetcode.com/problems/find-eventual-safe-states/,Step 15: Graphs,15.2 Topo Sort
+https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/,Step 15: Graphs,15.2 Topo Sort
+https://www.geeksforgeeks.org/shortest-path-unweighted-graph/,Step 15: Graphs,15.3 Shortest Path
+https://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/,Step 15: Graphs,15.3 Shortest Path
+https://leetcode.com/problems/network-delay-time/,Step 15: Graphs,15.3 Shortest Path
+https://leetcode.com/problems/shortest-path-in-binary-matrix/,Step 15: Graphs,15.3 Shortest Path
+https://leetcode.com/problems/path-with-minimum-effort/,Step 15: Graphs,15.3 Shortest Path
+https://leetcode.com/problems/cheapest-flights-within-k-stops/,Step 15: Graphs,15.3 Shortest Path
+https://leetcode.com/problems/network-delay-time/,Step 15: Graphs,15.3 Shortest Path
+https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/,Step 15: Graphs,15.3 Shortest Path
+https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/,Step 15: Graphs,15.3 Shortest Path
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors/,Step 15: Graphs,15.3 Shortest Path
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/,Step 15: Graphs,15.3 Shortest Path
+https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/,Step 15: Graphs,15.4 MST/Disjoint Set
+https://www.geeksforgeeks.org/union-find/,Step 15: Graphs,15.4 MST/Disjoint Set
+https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/,Step 15: Graphs,15.4 MST/Disjoint Set
+https://leetcode.com/problems/number-of-operations-to-make-network-connected/,Step 15: Graphs,15.4 MST/Disjoint Set
+https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/,Step 15: Graphs,15.4 MST/Disjoint Set
+https://leetcode.com/problems/accounts-merge/,Step 15: Graphs,15.4 MST/Disjoint Set
+https://leetcode.com/problems/number-of-islands-ii/,Step 15: Graphs,15.4 MST/Disjoint Set
+https://leetcode.com/problems/making-a-large-island/,Step 15: Graphs,15.4 MST/Disjoint Set
+https://leetcode.com/problems/swim-in-rising-water/,Step 15: Graphs,15.4 MST/Disjoint Set
+https://leetcode.com/problems/critical-connections-in-a-network/,Step 15: Graphs,15.5 Other Algorithms
+https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/,Step 15: Graphs,15.5 Other Algorithms
+https://www.geeksforgeeks.org/strongly-connected-components/,Step 15: Graphs,15.5 Other Algorithms
+https://leetcode.com/problems/climbing-stairs/,Step 16: Dynamic Programming,16.1 1D DP
+https://www.geeksforgeeks.org/minimum-cost-to-reach-nth-floor/,Step 16: Dynamic Programming,16.1 1D DP
+https://www.geeksforgeeks.org/minimum-cost-reach-destination/,Step 16: Dynamic Programming,16.1 1D DP
+https://leetcode.com/problems/house-robber/,Step 16: Dynamic Programming,16.1 1D DP
+https://leetcode.com/problems/house-robber-ii/,Step 16: Dynamic Programming,16.1 1D DP
+https://www.geeksforgeeks.org/maximum-points-top-left-matrix/,Step 16: Dynamic Programming,16.1 1D DP
+https://leetcode.com/problems/unique-paths/,Step 16: Dynamic Programming,16.2 2D DP
+https://leetcode.com/problems/unique-paths-ii/,Step 16: Dynamic Programming,16.2 2D DP
+https://leetcode.com/problems/minimum-path-sum/,Step 16: Dynamic Programming,16.2 2D DP
+https://leetcode.com/problems/triangle/,Step 16: Dynamic Programming,16.2 2D DP
+https://www.geeksforgeeks.org/maximum-path-sum-matrix/,Step 16: Dynamic Programming,16.2 2D DP
+https://www.geeksforgeeks.org/chocolate-pickup-problem-dp-67/,Step 16: Dynamic Programming,16.2 2D DP
+https://www.geeksforgeeks.org/subset-sum-problem-dp-25/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://leetcode.com/problems/partition-equal-subset-sum/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://www.geeksforgeeks.org/count-of-subsets-having-sum-equal-to-target/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://leetcode.com/problems/coin-change/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://leetcode.com/problems/target-sum/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://leetcode.com/problems/coin-change-ii/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://www.geeksforgeeks.org/cutting-a-rod-dp-13/,Step 16: Dynamic Programming,16.3 DP on Subsequences
+https://leetcode.com/problems/longest-common-subsequence/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://www.geeksforgeeks.org/print-longest-common-subsequence/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://www.geeksforgeeks.org/longest-common-substring-dp-29/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://leetcode.com/problems/longest-palindromic-subsequence/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://leetcode.com/problems/delete-operation-for-two-strings/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://leetcode.com/problems/shortest-common-supersequence/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://leetcode.com/problems/distinct-subsequences/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://leetcode.com/problems/edit-distance/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://leetcode.com/problems/wildcard-matching/,Step 16: Dynamic Programming,16.4 DP on Strings
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Step 16: Dynamic Programming,16.5 DP on Stocks
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Step 16: Dynamic Programming,16.5 DP on Stocks
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Step 16: Dynamic Programming,16.5 DP on Stocks
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Step 16: Dynamic Programming,16.5 DP on Stocks
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/,Step 16: Dynamic Programming,16.5 DP on Stocks
+https://leetcode.com/problems/longest-increasing-subsequence/,Step 16: Dynamic Programming,16.6 DP on LIS
+https://www.geeksforgeeks.org/construction-of-longest-monotonically-increasing-subsequence-n-log-n/,Step 16: Dynamic Programming,16.6 DP on LIS
+https://leetcode.com/problems/longest-increasing-subsequence/,Step 16: Dynamic Programming,16.6 DP on LIS
+https://leetcode.com/problems/largest-divisible-subset/,Step 16: Dynamic Programming,16.6 DP on LIS
+https://leetcode.com/problems/longest-string-chain/,Step 16: Dynamic Programming,16.6 DP on LIS
+https://www.geeksforgeeks.org/longest-bitonic-subsequence-dp-15/,Step 16: Dynamic Programming,16.6 DP on LIS
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/,Step 16: Dynamic Programming,16.6 DP on LIS
+https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/,Step 16: Dynamic Programming,16.7 MCM/Partition DP
+https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,Step 16: Dynamic Programming,16.7 MCM/Partition DP
+https://leetcode.com/problems/burst-balloons/,Step 16: Dynamic Programming,16.7 MCM/Partition DP
+https://leetcode.com/problems/palindrome-partitioning-ii/,Step 16: Dynamic Programming,16.7 MCM/Partition DP
+https://leetcode.com/problems/partition-array-for-maximum-sum/,Step 16: Dynamic Programming,16.7 MCM/Partition DP
+https://leetcode.com/problems/maximal-square/,Step 16: Dynamic Programming,16.8 DP on Squares
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/,Step 16: Dynamic Programming,16.8 DP on Squares
+https://leetcode.com/problems/implement-trie-prefix-tree/,Step 17: Tries,17.1 Theory & Problems
+https://www.geeksforgeeks.org/trie-insert-and-search/,Step 17: Tries,17.1 Theory & Problems
+https://www.geeksforgeeks.org/longest-string-with-all-prefix-strings/,Step 17: Tries,17.1 Theory & Problems
+https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/,Step 17: Tries,17.1 Theory & Problems
+https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/,Step 17: Tries,17.1 Theory & Problems
+https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/,Step 17: Tries,17.1 Theory & Problems
+https://leetcode.com/problems/maximum-xor-with-an-element-from-array/,Step 17: Tries,17.1 Theory & Problems
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/,Step 18: Strings II,18.1 Hard Problems
+https://leetcode.com/problems/count-and-say/,Step 18: Strings II,18.1 Hard Problems
+https://www.geeksforgeeks.org/string-hashing-using-polynomial-rolling-hash-function/,Step 18: Strings II,18.1 Hard Problems
+https://leetcode.com/problems/implement-strstr/,Step 18: Strings II,18.1 Hard Problems
+https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/,Step 18: Strings II,18.1 Hard Problems
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Step 18: Strings II,18.1 Hard Problems
+https://leetcode.com/problems/shortest-palindrome/,Step 18: Strings II,18.1 Hard Problems
+https://leetcode.com/problems/longest-happy-prefix/,Step 18: Strings II,18.1 Hard Problems
+https://leetcode.com/problems/count-different-palindromic-subsequences/,Step 18: Strings II,18.1 Hard Problems
