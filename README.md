@@ -374,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0056-merge-intervals/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
