@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Search
