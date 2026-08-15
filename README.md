@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0090-subsets-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0645-set-mismatch/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
