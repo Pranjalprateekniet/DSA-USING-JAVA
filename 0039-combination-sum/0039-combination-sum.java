@@ -1,30 +1,30 @@
 class Solution {
-    private void func(int [] arr,int n,int i,int sum,int target,List<Integer>diary,List<List<Integer>>res){
-        if(i==n)
-        {
-            if(sum==target){
-                res.add(new ArrayList<>(diary));
-            }
+    private static void func(int i,int n,int arr[],int target,List<Integer>temp,List<List<Integer>>res,int sum){
+        if(i==n){
+            if(sum==target)   
+                res.add(new ArrayList<>(temp));
             return;
         }
-        func(arr,n,i+1,sum,target,diary,res);
-        if(arr[i]+sum<=target){
-            diary.add(arr[i]);
-            sum=sum+arr[i];
-            func(arr,n,i,sum,target,diary,res);
-            diary.remove(diary.size()-1);
+        func(i+1,n,arr,target,temp,res,sum);
+        if(arr[i]+sum<=target)
+        {
+            temp.add(arr[i]);
+            sum+=arr[i];
+            func(i,n,arr,target,temp,res,sum);
+            temp.remove(temp.size()-1);
             sum=sum-arr[i];
         }
         return;
+
     }
 
 
     public List<List<Integer>> combinationSum(int[] arr, int target) {
         //your code goes here
         int n=arr.length;
-        List<Integer>diary=new ArrayList<>();
+        List<Integer>temp=new ArrayList<>();
         List<List<Integer>>res=new ArrayList<>();
-        func(arr,n,0,0,target,diary,res);
+        func(0,n,arr,target,temp,res,0);
         return res;
     }
 }
