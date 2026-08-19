@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0049-group-anagrams/) | Medium |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0022-generate-parentheses) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
