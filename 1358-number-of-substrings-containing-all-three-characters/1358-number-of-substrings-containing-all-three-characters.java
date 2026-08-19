@@ -1,21 +1,18 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int left =0;
-        int right=0;
         int n=s.length();
-        int tot=0;
-        int[] freq=new int[3];
+        int right=0;
+        int c=0;
+        int lastseen[]={-1,-1,-1};
         while(right<n){
             char ch=s.charAt(right);
-            ++freq[ch-'a'];
-            while(freq[0]>0 & freq[1]>0 && freq[2]>0){
-                tot+=n-right;
-                char leftchar=s.charAt(left);
-                --freq[leftchar-'a'];
-                ++left;
+            lastseen[ch-'a']=right;
+            if(lastseen[0]!=-1 && lastseen[1]!=-1 && lastseen[2]!=-1){
+                c=c+1+Math.min(lastseen[0],Math.min(lastseen[1],lastseen[2]));
             }
             right++;
+
         }
-     return tot;
+        return c;
     }
 }
