@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
