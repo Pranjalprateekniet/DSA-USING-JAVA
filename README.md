@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0216-combination-sum-iii/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
