@@ -1,3 +1,8 @@
+/*
+LONGEST SUBARRAY WITH AT MOST K UNIQUE ELEMENTS
+
+ */
+
 import java.util.*;
 public class q7 {
     public static void main(String[] args) {
