@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0520-detect-capital/) | Easy |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0125-valid-palindrome](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
