@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Linked List
