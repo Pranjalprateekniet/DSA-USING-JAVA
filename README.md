@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
