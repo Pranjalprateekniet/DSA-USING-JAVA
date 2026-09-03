@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
