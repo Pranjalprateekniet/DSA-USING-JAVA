@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -228,10 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0547-number-of-provinces](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
