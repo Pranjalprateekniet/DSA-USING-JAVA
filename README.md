@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0216-combination-sum-iii/) | Medium |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0547-number-of-provinces/) | Medium |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0994-rotting-oranges) |
@@ -229,11 +232,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Monotonic Stack
