@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0344-reverse-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0520-detect-capital/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
