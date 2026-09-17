@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0040-combination-sum-ii/) | Medium |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
