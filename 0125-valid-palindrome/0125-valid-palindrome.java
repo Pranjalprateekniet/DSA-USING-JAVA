@@ -1,19 +1,17 @@
 class Solution {
     public boolean isPalindrome(String s) {
         
-        String st = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+        String st=s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
         if(st.length()==1 || st.length()==0)
             return true;
-        int low=0;
-        int high=st.length()-1;
-        return reverse(st,low,high);
+            int n=st.length();
+        return reverse(st,0,n-1);
     }
-    private boolean reverse(String s,int low ,int high){
-        if(s.charAt(low)!=s.charAt(high))
+    private boolean reverse(String s,int left,int right){
+        if(s.charAt(left)!=s.charAt(right))
             return false;
-        if(low>=high)
+        if(left>=right)
             return true;
-        return reverse(s,low+1,high-1);
-
+        return reverse(s,left+1,right-1);
     }
 }
