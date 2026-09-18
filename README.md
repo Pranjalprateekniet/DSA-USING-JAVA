@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0200-number-of-islands/) | Medium |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0169-majority-element/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0645-set-mismatch/) | Easy |
@@ -551,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
