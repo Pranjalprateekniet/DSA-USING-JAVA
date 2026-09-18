@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
