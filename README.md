@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
