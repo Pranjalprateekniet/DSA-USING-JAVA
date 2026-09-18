@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
