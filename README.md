@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
