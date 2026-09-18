@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0413-arithmetic-slices/) | Medium |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
