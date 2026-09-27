@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/2390-removing-stars-from-a-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
