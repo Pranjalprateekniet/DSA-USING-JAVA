@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
