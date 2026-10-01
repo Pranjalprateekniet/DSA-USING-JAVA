@@ -19,16 +19,16 @@ public class q9 {
         int i=1;
         while(i<arr.length){
             Node current=q.poll();
-            if(i<arr.length){
+            if(i<arr.length && arr[i]!=-1){
                 current.left=new Node(arr[i]);
                 q.add(current.left);
-                i++;
             }
-            if(i<arr.length){
+            i++;
+            if(i<arr.length && arr[i]!=-1){
                 current.right=new Node(arr[i]);
                 q.add(current.right);
-                i++;
             }
+            i++;
         }
         return root;
 
@@ -44,8 +44,17 @@ public class q9 {
         
     }
     private static int diameterofthebinarytree(Node root){
+        diameter=0;
         height(root);
+
         return diameter;
+    }
+    private static void inorder(Node root){
+        if(root==null)
+            return;
+        inorder(root.left);
+        System.out.print(root.data+"->");
+        inorder(root.right);
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
@@ -58,6 +67,10 @@ public class q9 {
         }
         Node root=buildtree(arr);
         int ans=diameterofthebinarytree(root);
+
         System.out.println("Diameter = "+ans);
+
+        inorder(root);
+
     }
 }
