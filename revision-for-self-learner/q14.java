@@ -1,5 +1,6 @@
 import java.util.*;
-public class q13 {
+
+public class q14 {
     static class TreeNode{
         int val;
         TreeNode left;
@@ -11,19 +12,17 @@ public class q13 {
     static class Pair<K,V>{
         private K key;
         private V value;
+
         public Pair(K key,V value){
             this.key=key;
             this.value=value;
-
         }
         public K getKey(){
             return key;
-
         }
         public V getValue(){
             return value;
         }
-
     }
     private static TreeNode buildtree(int arr[]){
         if(arr.length==0 || arr[0]==-1)
@@ -48,31 +47,29 @@ public class q13 {
         return root;
 
     }
-    private static List<Integer>topview(TreeNode root){
-        List<Integer>ans=new ArrayList<>();
+        
+    private static List<Integer>  bottomview(TreeNode root){
+        List<Integer>res=new ArrayList<>();
         if(root==null)
-            return ans;
-        Map<Integer,Integer> map=new TreeMap<>();
-        Queue<Pair<TreeNode,Integer>>q=new LinkedList<>();
+            return res;
+        Queue<Pair<TreeNode,Integer>> q=new LinkedList<>();
+        Map<Integer,Integer>map=new TreeMap<>();
         q.add(new Pair<>(root,0));
         while(!q.isEmpty()){
             Pair<TreeNode,Integer> it=q.poll();
             TreeNode node=it.getKey();
             int line=it.getValue();
-            if(!map.containsKey(line)){
-                map.put(line,node.val);
-            }
+            map.put(line,node.val);
             if(node.left!=null)
                 q.add(new Pair<>(node.left,line-1));
             if(node.right!=null)
                 q.add(new Pair<>(node.right,line+1));
         }
-
         for(Integer value : map.values()){
-            ans.add(value);
+            res.add(value);
         }
-        return ans;
-    }
+        return res;
+    }   
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -80,11 +77,12 @@ public class q13 {
         for(int i=0;i<n;i++)
             arr[i]=sc.nextInt();
         TreeNode root=buildtree(arr);
-        List<Integer> res=new ArrayList<>();
-        res=topview(root);
-        for(int i=0;i<res.size();i++){
-            System.out.println(res.get(i)+" ");
+        List<Integer> ans=new ArrayList<>();
+        ans=bottomview(root);
+        for(int i:  ans){
+            System.out.print(i+" ");
         }
         sc.close();
     }
+
 }
