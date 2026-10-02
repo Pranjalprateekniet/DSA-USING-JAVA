@@ -18,9 +18,10 @@ class Solution {
         return isbst(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
     private boolean isbst(TreeNode root,long min,long max){
+        
         if(root==null)
             return true;
-        if(root.val>=max  || root.val<=min)
+        if(root.val>=max || root.val<=min)
             return false;
         return isbst(root.left,min,root.val) && isbst(root.right,root.val,max);
     }
