@@ -1,28 +1,29 @@
 class Solution {
-    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int ini=image[sr][sc];
-        int ans[][]=image;
-        dfs(image,sr,sc,color,ans,ini);
-        return ans;
-
-    }
-    private boolean isvalid(int i,int j,int n,int m){
-        if(i<0 || i>=n || j<0 || j>=m)
+    private static boolean isvalid(int i,int j,int n,int m){
+        if(i<0 || j<0 ||i>=n || j>=m)
             return false;
         return true;
-
     }
-    private void dfs(int[][] image,int row,int col,int newcolor,int [][] ans,int ini){
-        int n=image.length;
-        int m=image[0].length;
-        ans[row][col]=newcolor;
+    public int[][] floodFill(int[][] grid, int sr, int sc, int newColor) {
+        int n=grid.length;
+        int m=grid[0].length;
+        int ini=grid[sr][sc];
+        int ans[][]=grid;
+        dfs(sr,sc,grid,ans,newColor,ini);
+        return ans;
+    }
+    private static void dfs(int row,int col,int grid[][],int[][] ans,int nc,int ini){
+        ans[row][col]=nc;
+        int n=grid.length;
+        int m=grid[0].length;
+        ans[row][col]=nc;
         int delrow[]={-1,0,1,0};
         int delcol[]={0,1,0,-1};
         for(int i=0;i<4;i++){
             int newrow=row+delrow[i];
             int newcol=col+delcol[i];
-            if(isvalid(newrow,newcol,n,m) && image[newrow][newcol]==ini && ans[newrow][newcol]!=newcolor)
-                dfs(image,newrow,newcol,newcolor,ans,ini);
+            if(isvalid(newrow,newcol,n,m) && grid[newrow][newcol]==ini && ans[newrow][newcol]!=nc)
+                dfs(newrow,newcol,grid,ans,nc,ini);
         }
     }
 }
