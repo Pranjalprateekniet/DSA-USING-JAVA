@@ -27,7 +27,9 @@ class Solution {
             return -1;
         return 1+Math.max(left,right);
     }
+
     public boolean isBalanced(TreeNode root) {
         return dfs(root)!=-1;
+
     }
 }
