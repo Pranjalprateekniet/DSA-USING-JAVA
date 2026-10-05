@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0056-merge-intervals/) | Medium |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0064-minimum-path-sum/) | Medium |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
