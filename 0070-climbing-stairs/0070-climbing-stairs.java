@@ -1,8 +1,5 @@
 class Solution {
     HashMap<Integer,Integer>dp=new HashMap<>();
-    public int climbStairs(int n) {
-        return func(0,n);
-    }
     private int func(int i,int n){
         if(i==n)
             return 1;
@@ -15,5 +12,8 @@ class Solution {
         int ans=a1+a2;
         dp.put(i,ans);
         return ans;
+    }
+    public int climbStairs(int n) {
+        return func(0,n);
     }
 }
