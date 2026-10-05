@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Brainteaser
@@ -707,4 +710,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
