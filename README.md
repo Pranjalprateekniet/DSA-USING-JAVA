@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1534-count-good-triplets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1534-count-good-triplets/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1291-sequential-digits/) | Medium |
+| [1534-count-good-triplets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1534-count-good-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
