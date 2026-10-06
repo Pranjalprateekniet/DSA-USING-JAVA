@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4044-count-good-cyclic-rotations](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4044-count-good-cyclic-rotations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4044-count-good-cyclic-rotations](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4044-count-good-cyclic-rotations/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [4044-count-good-cyclic-rotations](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4044-count-good-cyclic-rotations/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
