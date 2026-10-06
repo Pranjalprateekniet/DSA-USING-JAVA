@@ -18,7 +18,6 @@ public class q2 {
             if(isvalid(newrow,newcol,n, m) && !vis[newrow][newcol] && grid[newrow][newcol]==1)
                 dfs(newrow, newcol, grid, vis, n, m);
         }
-
     }
     private static int numberofislands(int[][] grid){
         int n=grid.length;
