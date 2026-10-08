@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4044-count-good-cyclic-rotations](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4044-count-good-cyclic-rotations/) | Medium |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [4044-count-good-cyclic-rotations](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4044-count-good-cyclic-rotations/) | Medium |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
