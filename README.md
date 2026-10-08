@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 | [4044-count-good-cyclic-rotations](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4044-count-good-cyclic-rotations/) | Medium |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
 ## Breadth-First Search
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
