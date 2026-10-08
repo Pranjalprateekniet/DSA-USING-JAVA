@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
