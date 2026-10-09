@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0079-word-search/) | Medium |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
