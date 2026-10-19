@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
