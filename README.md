@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0733-flood-fill/) | Easy |
 | [0877-stone-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0877-stone-game/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0645-set-mismatch/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0881-boats-to-save-people/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -770,4 +774,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
