@@ -17,20 +17,22 @@ class Solution {
     int index=0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         HashMap<Integer,Integer>map=new HashMap<>();
-        for(int i=0;i<inorder.length;i++){
+        int n=inorder.length;
+        for(int i=0;i<n;i++){
             map.put(inorder[i],i);
         }
-        return helper(preorder,0,inorder.length-1,map);
+        TreeNode root=helper(preorder,0,n-1,map);
+        return root;
     }
-    private TreeNode helper(int[] preorder,int start,int end,HashMap<Integer,Integer>map){
+    private TreeNode helper(int preorder[],int start,int end,HashMap<Integer,Integer>map){
         if(start>end)
             return null;
-        int rootval=preorder[index++];
+        int rootval=preorder[index];
+        index++;
         TreeNode node=new TreeNode(rootval);
         int inorderindex=map.get(rootval);
         node.left=helper(preorder,start,inorderindex-1,map);
         node.right=helper(preorder,inorderindex+1,end,map);
         return node;
-
     }
 }
