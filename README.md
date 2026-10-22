@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 | [4044-count-good-cyclic-rotations](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4044-count-good-cyclic-rotations/) | Medium |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
