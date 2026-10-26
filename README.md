@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
