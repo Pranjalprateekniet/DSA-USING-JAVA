@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
