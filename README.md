@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0494-target-sum/) | Medium |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0292-nim-game/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0877-stone-game/) | Medium |
