@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0494-target-sum/) | Medium |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0292-nim-game/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0877-stone-game/) | Medium |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0268-missing-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
