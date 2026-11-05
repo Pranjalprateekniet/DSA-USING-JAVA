@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
