@@ -1,24 +1,23 @@
 class Solution {
-    public int subarraysWithKDistinct(int[] arr, int k) {
-        return atmostk(arr,k)-atmostk(arr,k-1);
-    }
-    private static int atmostk(int arr[],int k){
-        int n=arr.length;
-        int left=0;
-        int right=0;
+    private int atmost(int arr[],int k){
         HashMap<Integer,Integer>map=new HashMap<>();
-        int max=0;
-        while(right<n){
+        int left=0;
+        int result=0;
+        for(int right=0;right<arr.length;right++){
             map.put(arr[right],map.getOrDefault(arr[right],0)+1);
-            while(map.size()>k){
-                map.put(arr[left],map.getOrDefault(arr[left],0)-1);
+            if(map.get(arr[right])==1)
+                k--;
+            while(k<0){
+                map.put(arr[left],map.get(arr[left])-1);
                 if(map.get(arr[left])==0)
-                    map.remove(arr[left]);
+                    k++;
                 left++;
             }
-            max+=right-left+1;
-            right++;
+            result+=right-left+1;
         }
-        return max;
+        return result;
+    }
+    public int subarraysWithKDistinct(int[] nums, int k) {
+        return atmost(nums,k)-atmost(nums,k-1);
     }
 }
