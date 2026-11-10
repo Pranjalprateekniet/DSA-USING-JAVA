@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0494-target-sum/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
