@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
