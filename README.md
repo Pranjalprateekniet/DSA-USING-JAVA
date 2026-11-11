@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
