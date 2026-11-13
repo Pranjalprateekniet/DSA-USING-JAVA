@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0125-valid-palindrome/) | Easy |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
