@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
