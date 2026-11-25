@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3934-smallest-unique-subarray](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
 ## String
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 | [4044-count-good-cyclic-rotations](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/4044-count-good-cyclic-rotations/) | Medium |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -912,4 +916,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Pranjalprateekniet/DSA-USING-JAVA/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
